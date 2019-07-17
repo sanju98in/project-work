@@ -1,0 +1,591 @@
+26-07-2018 12:34:49 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+26-07-2018 12:34:49 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+26-07-2018 12:34:49 INFO  TestBase:363 - Message property configuration settings loaded successfully
+26-07-2018 12:34:49 INFO  TestBase:363 - Object property configuration settings loaded successfully
+26-07-2018 12:34:49 INFO  TestBase:363 - Creating the object of chrome
+26-07-2018 12:35:00 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+26-07-2018 12:35:00 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+26-07-2018 12:35:02 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (f4e4db3674371a4467aebf42847237fb)] -> link text: Sign in]
+26-07-2018 12:35:03 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (f4e4db3674371a4467aebf42847237fb)] -> id: SubmitLogin]
+26-07-2018 12:35:03 INFO  TestBase:1549 - Test Pass and captured success screenshot
+26-07-2018 12:35:04 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+26-07-2018 12:35:04 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+26-07-2018 12:35:04 INFO  TestBase:363 - Message property configuration settings loaded successfully
+26-07-2018 12:35:04 INFO  TestBase:363 - Object property configuration settings loaded successfully
+26-07-2018 12:35:04 INFO  TestBase:363 - Creating the object of chrome
+26-07-2018 12:35:14 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+26-07-2018 12:35:14 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+26-07-2018 12:35:17 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (e2c9a238ddfc3f119517e2d2eb182650)] -> link text: Sign in]
+26-07-2018 12:35:18 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (e2c9a238ddfc3f119517e2d2eb182650)] -> id: SubmitLogin]
+26-07-2018 12:35:18 INFO  TestBase:1549 - Test Pass and captured success screenshot
+26-07-2018 12:35:19 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+26-07-2018 12:35:19 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+26-07-2018 12:35:19 INFO  TestBase:363 - Message property configuration settings loaded successfully
+26-07-2018 12:35:19 INFO  TestBase:363 - Object property configuration settings loaded successfully
+26-07-2018 12:35:19 INFO  TestBase:363 - Creating the object of chrome
+26-07-2018 12:35:29 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+26-07-2018 12:35:29 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+26-07-2018 12:35:31 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (1fb0c3de2bfa6d986926180df0e7ba92)] -> link text: Contact us]
+26-07-2018 12:35:31 INFO  TestBase:363 - Clicked On: [[[[ChromeDriver: chrome on XP (1fb0c3de2bfa6d986926180df0e7ba92)] -> id: id_contact]] -> xpath: .//option[normalize-space(.) = "Customer service"]]
+26-07-2018 12:35:33 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (1fb0c3de2bfa6d986926180df0e7ba92)] -> id: submitMessage]
+26-07-2018 12:35:33 INFO  TestBase:1549 - Test Pass and captured success screenshot
+26-07-2018 12:35:34 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+26-07-2018 12:35:34 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+26-07-2018 12:35:34 INFO  TestBase:363 - Message property configuration settings loaded successfully
+26-07-2018 12:35:34 INFO  TestBase:363 - Object property configuration settings loaded successfully
+26-07-2018 12:35:34 INFO  TestBase:363 - Creating the object of chrome
+26-07-2018 12:35:44 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+26-07-2018 12:35:44 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+26-07-2018 12:35:48 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+26-07-2018 12:35:48 INFO  ContactsWorkflow:32 - I_am_on_the_company_login_page method started
+26-07-2018 12:35:48 INFO  ContactsWorkflow:37 - I_am_on_the_company_login_page method completed
+26-07-2018 12:35:48 INFO  ContactsWorkflow:42 - I_login_with_Valid_credentials Started
+26-07-2018 12:35:48 INFO  TestBase:363 - loginToApplication method Started
+26-07-2018 12:35:48 INFO  TestBase:1072 - Pass:Data is written in the text boxsanjeev101
+26-07-2018 12:35:48 INFO  TestBase:1072 - Pass:Data is written in the text boxtest@123
+26-07-2018 12:35:54 INFO  TestBase:886 - Pass clicked on the button
+26-07-2018 12:35:54 INFO  TestBase:363 - loginToApplication method Completed
+26-07-2018 12:35:54 INFO  ContactsWorkflow:52 - I_login_with_Valid_credentials Ended
+26-07-2018 12:35:54 INFO  TestBase:578 - Pass Hovered mouse over element 
+26-07-2018 12:35:54 INFO  TestBase:886 - Pass clicked on the button
+26-07-2018 12:35:54 INFO  TestBase:363 - createNewContact Started
+26-07-2018 12:35:55 INFO  TestBase:363 - Clicked On: [[[[ChromeDriver: chrome on XP (d86f926055ed5dde39a6c127b7945fc6)] -> name: title]] -> xpath: .//option[@value = "Mr."]]
+26-07-2018 12:35:55 INFO  TestBase:1334 - Pass Dropdown value selected
+26-07-2018 12:35:55 INFO  TestBase:1072 - Pass:Data is written in the text boxSachin
+26-07-2018 12:35:55 INFO  TestBase:1072 - Pass:Data is written in the text boxPatidar
+26-07-2018 12:35:56 INFO  TestBase:1072 - Pass:Data is written in the text boxDuetch Bank
+26-07-2018 12:35:56 INFO  TestBase:886 - Pass clicked on the button
+26-07-2018 12:35:56 INFO  TestBase:363 - createNewContact Ended
+26-07-2018 12:35:56 INFO  TestBase:363 - loginPageTitle method Started
+26-07-2018 12:35:56 INFO  TestBase:363 - loginPageTitle method Completed
+26-07-2018 12:35:56 INFO  TestBase:363 - logoutApp method Started
+26-07-2018 12:35:56 INFO  TestBase:363 - clickLinkByHref method Started
+26-07-2018 12:35:56 INFO  TestBase:79 - Href link exist 
+26-07-2018 12:35:56 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (d86f926055ed5dde39a6c127b7945fc6)] -> tag name: a]
+26-07-2018 12:35:56 INFO  TestBase:363 - clickLinkByHref method ended
+26-07-2018 12:35:56 INFO  TestBase:363 - logoutApp method Completed
+26-07-2018 12:35:56 INFO  TestBase:1549 - Test Pass and captured success screenshot
+26-07-2018 12:35:57 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+26-07-2018 12:35:57 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+26-07-2018 12:35:57 INFO  TestBase:363 - Message property configuration settings loaded successfully
+26-07-2018 12:35:57 INFO  TestBase:363 - Object property configuration settings loaded successfully
+26-07-2018 12:35:57 INFO  TestBase:363 - Creating the object of chrome
+26-07-2018 12:36:08 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+26-07-2018 12:36:08 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+26-07-2018 12:36:08 INFO  TestBase:22 - I_am_on_the_company_login_page method started
+26-07-2018 12:36:12 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+26-07-2018 12:36:12 INFO  TestBase:363 - homePageTitle method Started
+26-07-2018 12:36:12 INFO  TestBase:363 - homePageTitle method Completed
+26-07-2018 12:36:12 INFO  TestBase:31 - I_am_on_the_company_login_page method completed
+26-07-2018 12:36:12 INFO  TestBase:37 - I_login_with_Valid_credentials Started
+26-07-2018 12:36:12 INFO  TestBase:363 - loginToApplication method Started
+26-07-2018 12:36:12 INFO  TestBase:1072 - Pass:Data is written in the text boxsanjeev101
+26-07-2018 12:36:12 INFO  TestBase:1072 - Pass:Data is written in the text boxtest@123
+26-07-2018 12:36:18 INFO  TestBase:886 - Pass clicked on the button
+26-07-2018 12:36:18 INFO  TestBase:363 - loginToApplication method Completed
+26-07-2018 12:36:18 INFO  TestBase:363 - loginPageTitle method Started
+26-07-2018 12:36:18 INFO  TestBase:363 - loginPageTitle method Completed
+26-07-2018 12:36:18 INFO  TestBase:46 - I_login_with_Valid_credentials completed
+26-07-2018 12:36:18 INFO  TestBase:52 - I_should_be_logged_in method started
+26-07-2018 12:36:18 INFO  TestBase:363 - loginPageTitle method Started
+26-07-2018 12:36:18 INFO  TestBase:363 - loginPageTitle method Completed
+26-07-2018 12:36:18 INFO  TestBase:57 - I_should_be_logged_in method completed
+26-07-2018 12:36:18 INFO  TestBase:363 - logoutApp method Started
+26-07-2018 12:36:18 INFO  TestBase:363 - clickLinkByHref method Started
+26-07-2018 12:36:28 INFO  TestBase:363 - clickLinkByHref method ended
+26-07-2018 12:36:28 INFO  TestBase:363 - logoutApp method Completed
+26-07-2018 12:36:29 INFO  TestBase:1549 - Test Pass and captured success screenshot
+26-07-2018 12:36:30 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+26-07-2018 12:36:30 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+26-07-2018 12:36:30 INFO  TestBase:363 - Message property configuration settings loaded successfully
+26-07-2018 12:36:30 INFO  TestBase:363 - Object property configuration settings loaded successfully
+26-07-2018 12:36:30 INFO  TestBase:363 - Creating the object of chrome
+26-07-2018 12:36:39 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+26-07-2018 12:36:40 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+26-07-2018 12:36:44 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+26-07-2018 12:36:44 INFO  ContactsWorkflow:32 - I_am_on_the_company_login_page method started
+26-07-2018 12:36:44 INFO  ContactsWorkflow:37 - I_am_on_the_company_login_page method completed
+26-07-2018 12:36:44 INFO  TestBase:86 - I_login_with_invalid_credentials method Started
+26-07-2018 12:36:44 INFO  TestBase:363 - loginToApplication method Started
+26-07-2018 12:36:44 INFO  TestBase:1072 - Pass:Data is written in the text boxtest
+26-07-2018 12:36:44 INFO  TestBase:1072 - Pass:Data is written in the text boxtest
+26-07-2018 12:36:45 INFO  TestBase:886 - Pass clicked on the button
+26-07-2018 12:36:45 INFO  TestBase:363 - loginToApplication method Completed
+26-07-2018 12:36:45 INFO  TestBase:92 - I_login_with_invalid_credentials method completed
+26-07-2018 12:36:45 INFO  TestBase:98 - I_should_be_on_the_company_login_page method started
+26-07-2018 12:36:45 INFO  TestBase:363 - homePageTitle method Started
+26-07-2018 12:36:45 INFO  TestBase:363 - homePageTitle method Completed
+26-07-2018 12:36:45 INFO  TestBase:103 - I_should_be_on_the_company_login_page method completed
+26-07-2018 12:36:45 INFO  TestBase:1549 - Test Pass and captured success screenshot
+26-07-2018 12:44:07 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+26-07-2018 12:44:07 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+26-07-2018 12:44:07 INFO  TestBase:363 - Message property configuration settings loaded successfully
+26-07-2018 12:44:07 INFO  TestBase:363 - Object property configuration settings loaded successfully
+26-07-2018 12:44:07 INFO  TestBase:363 - Creating the object of chrome
+26-07-2018 12:44:19 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+26-07-2018 12:44:19 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+26-07-2018 12:44:27 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (90537c2cd16742a83ff7aa7d882f4fe2)] -> link text: Sign in]
+26-07-2018 12:44:28 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (90537c2cd16742a83ff7aa7d882f4fe2)] -> id: SubmitLogin]
+26-07-2018 12:47:29 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+26-07-2018 12:47:29 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+26-07-2018 12:47:29 INFO  TestBase:363 - Message property configuration settings loaded successfully
+26-07-2018 12:47:29 INFO  TestBase:363 - Object property configuration settings loaded successfully
+26-07-2018 12:47:29 INFO  TestBase:363 - Creating the object of chrome
+26-07-2018 12:47:39 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+26-07-2018 12:47:39 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+26-07-2018 12:47:45 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (a38b24ca1e11dd335e2c035b1bc8a28f)] -> link text: Sign in]
+26-07-2018 12:47:46 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (a38b24ca1e11dd335e2c035b1bc8a28f)] -> id: SubmitLogin]
+26-07-2018 12:54:04 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+26-07-2018 12:54:04 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+26-07-2018 12:54:04 INFO  TestBase:363 - Message property configuration settings loaded successfully
+26-07-2018 12:54:04 INFO  TestBase:363 - Object property configuration settings loaded successfully
+26-07-2018 12:54:04 INFO  TestBase:363 - Creating the object of chrome
+26-07-2018 12:54:15 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+26-07-2018 12:54:15 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+26-07-2018 12:54:17 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (799d57b872d5811c845a8edd7704b1ef)] -> link text: Sign in]
+26-07-2018 12:54:18 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (799d57b872d5811c845a8edd7704b1ef)] -> id: SubmitLogin]
+26-07-2018 12:54:18 INFO  TestBase:1549 - Test Pass and captured success screenshot
+26-07-2018 12:54:19 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+26-07-2018 12:54:19 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+26-07-2018 12:54:19 INFO  TestBase:363 - Message property configuration settings loaded successfully
+26-07-2018 12:54:19 INFO  TestBase:363 - Object property configuration settings loaded successfully
+26-07-2018 12:54:19 INFO  TestBase:363 - Creating the object of chrome
+26-07-2018 12:54:29 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+26-07-2018 12:54:29 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+26-07-2018 12:54:31 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (998f072f3c4c0b2af475ae1c15612c44)] -> link text: Sign in]
+26-07-2018 12:54:32 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (998f072f3c4c0b2af475ae1c15612c44)] -> id: SubmitLogin]
+26-07-2018 12:54:32 INFO  TestBase:1549 - Test Pass and captured success screenshot
+26-07-2018 12:54:34 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+26-07-2018 12:54:34 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+26-07-2018 12:54:34 INFO  TestBase:363 - Message property configuration settings loaded successfully
+26-07-2018 12:54:34 INFO  TestBase:363 - Object property configuration settings loaded successfully
+26-07-2018 12:54:34 INFO  TestBase:363 - Creating the object of chrome
+26-07-2018 12:54:43 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+26-07-2018 12:54:43 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+26-07-2018 12:54:45 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (57c2d9e0410d8dce3550169c0edcfed7)] -> link text: Contact us]
+26-07-2018 12:54:45 INFO  TestBase:363 - Clicked On: [[[[ChromeDriver: chrome on XP (57c2d9e0410d8dce3550169c0edcfed7)] -> id: id_contact]] -> xpath: .//option[normalize-space(.) = "Customer service"]]
+26-07-2018 12:54:46 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (57c2d9e0410d8dce3550169c0edcfed7)] -> id: submitMessage]
+26-07-2018 12:54:47 INFO  TestBase:1549 - Test Pass and captured success screenshot
+26-07-2018 12:54:48 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+26-07-2018 12:54:48 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+26-07-2018 12:54:48 INFO  TestBase:363 - Message property configuration settings loaded successfully
+26-07-2018 12:54:48 INFO  TestBase:363 - Object property configuration settings loaded successfully
+26-07-2018 12:54:48 INFO  TestBase:363 - Creating the object of chrome
+26-07-2018 12:54:57 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+26-07-2018 12:54:58 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+26-07-2018 12:55:02 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+26-07-2018 12:55:02 INFO  ContactsWorkflow:32 - I_am_on_the_company_login_page method started
+26-07-2018 12:55:02 INFO  ContactsWorkflow:37 - I_am_on_the_company_login_page method completed
+27-07-2018 09:30:45 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 09:30:45 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 09:30:45 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 09:30:45 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 09:30:45 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 09:30:55 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 09:30:56 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 09:30:57 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (83f791474581478510441de61c118e4c)] -> link text: Sign in]
+27-07-2018 09:30:59 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (83f791474581478510441de61c118e4c)] -> id: SubmitLogin]
+27-07-2018 09:30:59 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 09:31:00 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 09:31:00 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 09:31:00 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 09:31:00 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 09:31:00 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 09:31:10 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 09:31:10 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 09:31:12 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (06e40d7782ed554608d19318dd976e3e)] -> link text: Sign in]
+27-07-2018 09:31:13 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (06e40d7782ed554608d19318dd976e3e)] -> id: SubmitLogin]
+27-07-2018 09:31:14 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 09:31:15 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 09:31:15 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 09:31:15 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 09:31:15 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 09:31:15 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 09:31:25 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 09:31:25 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 09:31:27 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (227697464ca752d58d98e57670fed3e5)] -> link text: Contact us]
+27-07-2018 09:31:27 INFO  TestBase:363 - Clicked On: [[[[ChromeDriver: chrome on XP (227697464ca752d58d98e57670fed3e5)] -> id: id_contact]] -> xpath: .//option[normalize-space(.) = "Customer service"]]
+27-07-2018 09:31:28 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (227697464ca752d58d98e57670fed3e5)] -> id: submitMessage]
+27-07-2018 09:31:28 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 09:31:29 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 09:31:29 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 09:31:29 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 09:31:29 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 09:31:29 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 09:31:39 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 09:31:39 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 09:31:43 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+27-07-2018 09:31:43 INFO  ContactsWorkflow:32 - I_am_on_the_company_login_page method started
+27-07-2018 09:31:43 INFO  ContactsWorkflow:37 - I_am_on_the_company_login_page method completed
+27-07-2018 09:31:43 INFO  ContactsWorkflow:42 - I_login_with_Valid_credentials Started
+27-07-2018 09:31:43 INFO  TestBase:363 - loginToApplication method Started
+27-07-2018 09:31:43 INFO  TestBase:1072 - Pass:Data is written in the text boxsanjeev101
+27-07-2018 09:31:44 INFO  TestBase:1072 - Pass:Data is written in the text boxtest@123
+27-07-2018 09:31:51 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 09:31:51 INFO  TestBase:363 - loginToApplication method Completed
+27-07-2018 09:31:51 INFO  ContactsWorkflow:52 - I_login_with_Valid_credentials Ended
+27-07-2018 09:31:51 INFO  TestBase:578 - Pass Hovered mouse over element 
+27-07-2018 09:31:52 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 09:31:52 INFO  TestBase:363 - createNewContact Started
+27-07-2018 09:31:53 INFO  TestBase:363 - Clicked On: [[[[ChromeDriver: chrome on XP (69352016c9f86f4869388079e1ed9bdf)] -> name: title]] -> xpath: .//option[@value = "Mr."]]
+27-07-2018 09:31:53 INFO  TestBase:1334 - Pass Dropdown value selected
+27-07-2018 09:31:53 INFO  TestBase:1072 - Pass:Data is written in the text boxSachin
+27-07-2018 09:31:53 INFO  TestBase:1072 - Pass:Data is written in the text boxPatidar
+27-07-2018 09:31:53 INFO  TestBase:1072 - Pass:Data is written in the text boxDuetch Bank
+27-07-2018 09:31:53 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 09:31:53 INFO  TestBase:363 - createNewContact Ended
+27-07-2018 09:31:54 INFO  TestBase:363 - loginPageTitle method Started
+27-07-2018 09:31:54 INFO  TestBase:363 - loginPageTitle method Completed
+27-07-2018 09:31:54 INFO  TestBase:363 - logoutApp method Started
+27-07-2018 09:31:54 INFO  TestBase:363 - clickLinkByHref method Started
+27-07-2018 09:31:54 INFO  TestBase:79 - Href link exist 
+27-07-2018 09:31:54 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (69352016c9f86f4869388079e1ed9bdf)] -> tag name: a]
+27-07-2018 09:31:54 INFO  TestBase:363 - clickLinkByHref method ended
+27-07-2018 09:31:54 INFO  TestBase:363 - logoutApp method Completed
+27-07-2018 09:31:54 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 09:31:55 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 09:31:55 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 09:31:55 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 09:31:55 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 09:31:55 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 09:32:05 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 09:32:05 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 09:32:05 INFO  TestBase:22 - I_am_on_the_company_login_page method started
+27-07-2018 09:32:09 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+27-07-2018 09:32:09 INFO  TestBase:363 - homePageTitle method Started
+27-07-2018 09:32:09 INFO  TestBase:363 - homePageTitle method Completed
+27-07-2018 09:32:09 INFO  TestBase:31 - I_am_on_the_company_login_page method completed
+27-07-2018 09:32:09 INFO  TestBase:37 - I_login_with_Valid_credentials Started
+27-07-2018 09:32:09 INFO  TestBase:363 - loginToApplication method Started
+27-07-2018 09:32:09 INFO  TestBase:1072 - Pass:Data is written in the text boxsanjeev101
+27-07-2018 09:32:09 INFO  TestBase:1072 - Pass:Data is written in the text boxtest@123
+27-07-2018 09:32:14 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 09:32:14 INFO  TestBase:363 - loginToApplication method Completed
+27-07-2018 09:32:14 INFO  TestBase:363 - loginPageTitle method Started
+27-07-2018 09:32:14 INFO  TestBase:363 - loginPageTitle method Completed
+27-07-2018 09:32:14 INFO  TestBase:46 - I_login_with_Valid_credentials completed
+27-07-2018 09:32:14 INFO  TestBase:52 - I_should_be_logged_in method started
+27-07-2018 09:32:14 INFO  TestBase:363 - loginPageTitle method Started
+27-07-2018 09:32:14 INFO  TestBase:363 - loginPageTitle method Completed
+27-07-2018 09:32:14 INFO  TestBase:57 - I_should_be_logged_in method completed
+27-07-2018 09:32:14 INFO  TestBase:363 - logoutApp method Started
+27-07-2018 09:32:14 INFO  TestBase:363 - clickLinkByHref method Started
+27-07-2018 09:32:24 INFO  TestBase:363 - clickLinkByHref method ended
+27-07-2018 09:32:24 INFO  TestBase:363 - logoutApp method Completed
+27-07-2018 09:32:24 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 09:32:26 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 09:32:26 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 09:32:26 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 09:32:26 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 09:32:26 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 09:32:36 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 09:32:36 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 09:32:39 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+27-07-2018 09:32:39 INFO  ContactsWorkflow:32 - I_am_on_the_company_login_page method started
+27-07-2018 09:32:39 INFO  ContactsWorkflow:37 - I_am_on_the_company_login_page method completed
+27-07-2018 09:32:39 INFO  TestBase:86 - I_login_with_invalid_credentials method Started
+27-07-2018 09:32:39 INFO  TestBase:363 - loginToApplication method Started
+27-07-2018 09:32:39 INFO  TestBase:1072 - Pass:Data is written in the text boxtest
+27-07-2018 09:32:40 INFO  TestBase:1072 - Pass:Data is written in the text boxtest
+27-07-2018 09:32:40 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 09:32:40 INFO  TestBase:363 - loginToApplication method Completed
+27-07-2018 09:32:40 INFO  TestBase:92 - I_login_with_invalid_credentials method completed
+27-07-2018 09:32:40 INFO  TestBase:98 - I_should_be_on_the_company_login_page method started
+27-07-2018 09:32:40 INFO  TestBase:363 - homePageTitle method Started
+27-07-2018 09:32:40 INFO  TestBase:363 - homePageTitle method Completed
+27-07-2018 09:32:40 INFO  TestBase:103 - I_should_be_on_the_company_login_page method completed
+27-07-2018 09:32:41 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 11:04:05 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 11:04:05 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 11:04:05 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 11:04:05 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 11:04:05 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 11:04:17 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 11:04:17 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 11:04:19 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (ccf3cfdceb0a11dbfb4335b335eb2e56)] -> link text: Sign in]
+27-07-2018 11:04:20 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (ccf3cfdceb0a11dbfb4335b335eb2e56)] -> id: SubmitLogin]
+27-07-2018 11:04:20 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 11:04:21 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 11:04:21 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 11:04:21 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 11:04:21 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 11:04:21 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 11:04:32 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 11:04:32 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 11:04:34 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (e1debd3d10a37530193c0c264b3501f6)] -> link text: Sign in]
+27-07-2018 11:04:35 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (e1debd3d10a37530193c0c264b3501f6)] -> id: SubmitLogin]
+27-07-2018 11:04:36 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 11:04:37 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 11:04:37 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 11:04:37 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 11:04:37 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 11:04:37 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 11:04:46 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 11:04:47 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 11:04:48 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (2622dfedc83f1c15d7f76b9115c6d3ee)] -> link text: Contact us]
+27-07-2018 11:04:48 INFO  TestBase:363 - Clicked On: [[[[ChromeDriver: chrome on XP (2622dfedc83f1c15d7f76b9115c6d3ee)] -> id: id_contact]] -> xpath: .//option[normalize-space(.) = "Customer service"]]
+27-07-2018 11:04:50 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (2622dfedc83f1c15d7f76b9115c6d3ee)] -> id: submitMessage]
+27-07-2018 11:04:50 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 11:04:51 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 11:04:51 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 11:04:51 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 11:04:51 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 11:04:51 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 11:05:02 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 11:05:02 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 11:05:06 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+27-07-2018 11:05:06 INFO  ContactsWorkflow:32 - I_am_on_the_company_login_page method started
+27-07-2018 11:05:06 INFO  ContactsWorkflow:37 - I_am_on_the_company_login_page method completed
+27-07-2018 11:05:06 INFO  ContactsWorkflow:42 - I_login_with_Valid_credentials Started
+27-07-2018 11:05:06 INFO  TestBase:363 - loginToApplication method Started
+27-07-2018 11:05:06 INFO  TestBase:1072 - Pass:Data is written in the text boxsanjeev101
+27-07-2018 11:05:06 INFO  TestBase:1072 - Pass:Data is written in the text boxtest@123
+27-07-2018 11:05:15 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:05:15 INFO  TestBase:363 - loginToApplication method Completed
+27-07-2018 11:05:15 INFO  ContactsWorkflow:52 - I_login_with_Valid_credentials Ended
+27-07-2018 11:05:15 INFO  TestBase:578 - Pass Hovered mouse over element 
+27-07-2018 11:05:16 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:05:16 INFO  TestBase:363 - createNewContact Started
+27-07-2018 11:05:17 INFO  TestBase:363 - Clicked On: [[[[ChromeDriver: chrome on XP (90852a2cfe06db28907b50f5643326fd)] -> name: title]] -> xpath: .//option[@value = "Mr."]]
+27-07-2018 11:05:17 INFO  TestBase:1334 - Pass Dropdown value selected
+27-07-2018 11:05:17 INFO  TestBase:1072 - Pass:Data is written in the text boxSachin
+27-07-2018 11:05:17 INFO  TestBase:1072 - Pass:Data is written in the text boxPatidar
+27-07-2018 11:05:17 INFO  TestBase:1072 - Pass:Data is written in the text boxDuetch Bank
+27-07-2018 11:05:17 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:05:17 INFO  TestBase:363 - createNewContact Ended
+27-07-2018 11:05:17 INFO  TestBase:363 - loginPageTitle method Started
+27-07-2018 11:05:17 INFO  TestBase:363 - loginPageTitle method Completed
+27-07-2018 11:05:17 INFO  TestBase:363 - logoutApp method Started
+27-07-2018 11:05:17 INFO  TestBase:363 - clickLinkByHref method Started
+27-07-2018 11:05:18 INFO  TestBase:79 - Href link exist 
+27-07-2018 11:05:18 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (90852a2cfe06db28907b50f5643326fd)] -> tag name: a]
+27-07-2018 11:05:18 INFO  TestBase:363 - clickLinkByHref method ended
+27-07-2018 11:05:18 INFO  TestBase:363 - logoutApp method Completed
+27-07-2018 11:05:18 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 11:05:19 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 11:05:19 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 11:05:19 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 11:05:19 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 11:05:19 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 11:05:30 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 11:05:30 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 11:05:30 INFO  TestBase:22 - I_am_on_the_company_login_page method started
+27-07-2018 11:05:34 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+27-07-2018 11:05:34 INFO  TestBase:363 - homePageTitle method Started
+27-07-2018 11:05:34 INFO  TestBase:363 - homePageTitle method Completed
+27-07-2018 11:05:34 INFO  TestBase:31 - I_am_on_the_company_login_page method completed
+27-07-2018 11:05:34 INFO  TestBase:37 - I_login_with_Valid_credentials Started
+27-07-2018 11:05:34 INFO  TestBase:363 - loginToApplication method Started
+27-07-2018 11:05:34 INFO  TestBase:1072 - Pass:Data is written in the text boxsanjeev101
+27-07-2018 11:05:34 INFO  TestBase:1072 - Pass:Data is written in the text boxtest@123
+27-07-2018 11:05:41 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:05:41 INFO  TestBase:363 - loginToApplication method Completed
+27-07-2018 11:05:41 INFO  TestBase:363 - loginPageTitle method Started
+27-07-2018 11:05:41 INFO  TestBase:363 - loginPageTitle method Completed
+27-07-2018 11:05:41 INFO  TestBase:46 - I_login_with_Valid_credentials completed
+27-07-2018 11:05:41 INFO  TestBase:52 - I_should_be_logged_in method started
+27-07-2018 11:05:41 INFO  TestBase:363 - loginPageTitle method Started
+27-07-2018 11:05:41 INFO  TestBase:363 - loginPageTitle method Completed
+27-07-2018 11:05:41 INFO  TestBase:57 - I_should_be_logged_in method completed
+27-07-2018 11:05:41 INFO  TestBase:363 - logoutApp method Started
+27-07-2018 11:05:41 INFO  TestBase:363 - clickLinkByHref method Started
+27-07-2018 11:05:51 INFO  TestBase:363 - clickLinkByHref method ended
+27-07-2018 11:05:51 INFO  TestBase:363 - logoutApp method Completed
+27-07-2018 11:05:51 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 11:05:52 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 11:05:52 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 11:05:52 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 11:05:52 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 11:05:52 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 11:06:03 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 11:06:03 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 11:06:07 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+27-07-2018 11:06:07 INFO  ContactsWorkflow:32 - I_am_on_the_company_login_page method started
+27-07-2018 11:06:07 INFO  ContactsWorkflow:37 - I_am_on_the_company_login_page method completed
+27-07-2018 11:06:07 INFO  TestBase:86 - I_login_with_invalid_credentials method Started
+27-07-2018 11:06:07 INFO  TestBase:363 - loginToApplication method Started
+27-07-2018 11:06:07 INFO  TestBase:1072 - Pass:Data is written in the text boxtest
+27-07-2018 11:06:07 INFO  TestBase:1072 - Pass:Data is written in the text boxtest
+27-07-2018 11:06:08 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:06:08 INFO  TestBase:363 - loginToApplication method Completed
+27-07-2018 11:06:08 INFO  TestBase:92 - I_login_with_invalid_credentials method completed
+27-07-2018 11:06:08 INFO  TestBase:98 - I_should_be_on_the_company_login_page method started
+27-07-2018 11:06:08 INFO  TestBase:363 - homePageTitle method Started
+27-07-2018 11:06:08 INFO  TestBase:363 - homePageTitle method Completed
+27-07-2018 11:06:08 INFO  TestBase:103 - I_should_be_on_the_company_login_page method completed
+27-07-2018 11:06:08 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 11:08:19 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 11:08:19 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 11:08:19 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 11:08:19 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 11:08:19 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 11:08:30 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 11:08:30 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 11:08:35 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+27-07-2018 11:08:35 INFO  ContactsWorkflow:32 - I_am_on_the_company_login_page method started
+27-07-2018 11:08:35 INFO  ContactsWorkflow:37 - I_am_on_the_company_login_page method completed
+27-07-2018 11:08:35 INFO  ContactsWorkflow:42 - I_login_with_Valid_credentials Started
+27-07-2018 11:08:35 INFO  TestBase:363 - loginToApplication method Started
+27-07-2018 11:08:35 INFO  TestBase:1072 - Pass:Data is written in the text boxsanjeev101
+27-07-2018 11:08:35 INFO  TestBase:1072 - Pass:Data is written in the text boxtest@123
+27-07-2018 11:08:43 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:08:43 INFO  TestBase:363 - loginToApplication method Completed
+27-07-2018 11:08:43 INFO  ContactsWorkflow:52 - I_login_with_Valid_credentials Ended
+27-07-2018 11:08:43 INFO  TestBase:578 - Pass Hovered mouse over element 
+27-07-2018 11:08:43 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:08:43 INFO  TestBase:363 - createNewContact Started
+27-07-2018 11:08:44 INFO  TestBase:363 - Clicked On: [[[[ChromeDriver: chrome on XP (3fed37c9d067843122d68290515819f5)] -> name: title]] -> xpath: .//option[@value = "Mr."]]
+27-07-2018 11:08:44 INFO  TestBase:1334 - Pass Dropdown value selected
+27-07-2018 11:08:44 INFO  TestBase:1072 - Pass:Data is written in the text boxSachin
+27-07-2018 11:08:44 INFO  TestBase:1072 - Pass:Data is written in the text boxPatidar
+27-07-2018 11:08:44 INFO  TestBase:1072 - Pass:Data is written in the text boxDuetch Bank
+27-07-2018 11:08:44 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:08:44 INFO  TestBase:363 - createNewContact Ended
+27-07-2018 11:08:44 INFO  TestBase:363 - loginPageTitle method Started
+27-07-2018 11:08:44 INFO  TestBase:363 - loginPageTitle method Completed
+27-07-2018 11:08:44 INFO  TestBase:363 - logoutApp method Started
+27-07-2018 11:08:44 INFO  TestBase:363 - clickLinkByHref method Started
+27-07-2018 11:08:45 INFO  TestBase:79 - Href link exist 
+27-07-2018 11:08:45 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (3fed37c9d067843122d68290515819f5)] -> tag name: a]
+27-07-2018 11:08:45 INFO  TestBase:363 - clickLinkByHref method ended
+27-07-2018 11:08:45 INFO  TestBase:363 - logoutApp method Completed
+27-07-2018 11:08:45 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 11:08:46 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 11:08:46 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 11:08:46 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 11:08:46 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 11:08:46 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 11:08:56 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 11:08:56 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 11:08:56 INFO  TestBase:22 - I_am_on_the_company_login_page method started
+27-07-2018 11:09:00 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+27-07-2018 11:09:00 INFO  TestBase:363 - homePageTitle method Started
+27-07-2018 11:09:00 INFO  TestBase:363 - homePageTitle method Completed
+27-07-2018 11:09:00 INFO  TestBase:31 - I_am_on_the_company_login_page method completed
+27-07-2018 11:09:00 INFO  TestBase:37 - I_login_with_Valid_credentials Started
+27-07-2018 11:09:00 INFO  TestBase:363 - loginToApplication method Started
+27-07-2018 11:09:00 INFO  TestBase:1072 - Pass:Data is written in the text boxsanjeev101
+27-07-2018 11:09:00 INFO  TestBase:1072 - Pass:Data is written in the text boxtest@123
+27-07-2018 11:09:03 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:09:03 INFO  TestBase:363 - loginToApplication method Completed
+27-07-2018 11:09:03 INFO  TestBase:363 - loginPageTitle method Started
+27-07-2018 11:09:03 INFO  TestBase:363 - loginPageTitle method Completed
+27-07-2018 11:09:03 INFO  TestBase:46 - I_login_with_Valid_credentials completed
+27-07-2018 11:09:03 INFO  TestBase:52 - I_should_be_logged_in method started
+27-07-2018 11:09:03 INFO  TestBase:363 - loginPageTitle method Started
+27-07-2018 11:09:03 INFO  TestBase:363 - loginPageTitle method Completed
+27-07-2018 11:09:03 INFO  TestBase:57 - I_should_be_logged_in method completed
+27-07-2018 11:09:03 INFO  TestBase:363 - logoutApp method Started
+27-07-2018 11:09:03 INFO  TestBase:363 - clickLinkByHref method Started
+27-07-2018 11:09:14 INFO  TestBase:363 - clickLinkByHref method ended
+27-07-2018 11:09:14 INFO  TestBase:363 - logoutApp method Completed
+27-07-2018 11:09:14 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 11:09:15 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 11:09:15 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 11:09:15 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 11:09:15 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 11:09:15 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 11:09:25 INFO  TestBase:363 -  Navigated to http://automationpractice.com/index.php?
+27-07-2018 11:09:25 INFO  TestBase:170 - Browser Initialization finished with urlhttp://automationpractice.com/index.php?
+27-07-2018 11:09:29 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+27-07-2018 11:09:29 INFO  ContactsWorkflow:32 - I_am_on_the_company_login_page method started
+27-07-2018 11:09:29 INFO  ContactsWorkflow:37 - I_am_on_the_company_login_page method completed
+27-07-2018 11:09:29 INFO  TestBase:86 - I_login_with_invalid_credentials method Started
+27-07-2018 11:09:29 INFO  TestBase:363 - loginToApplication method Started
+27-07-2018 11:09:30 INFO  TestBase:1072 - Pass:Data is written in the text boxtest
+27-07-2018 11:09:30 INFO  TestBase:1072 - Pass:Data is written in the text boxtest
+27-07-2018 11:09:31 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:09:31 INFO  TestBase:363 - loginToApplication method Completed
+27-07-2018 11:09:31 INFO  TestBase:92 - I_login_with_invalid_credentials method completed
+27-07-2018 11:09:31 INFO  TestBase:98 - I_should_be_on_the_company_login_page method started
+27-07-2018 11:09:31 INFO  TestBase:363 - homePageTitle method Started
+27-07-2018 11:09:31 INFO  TestBase:363 - homePageTitle method Completed
+27-07-2018 11:09:31 INFO  TestBase:103 - I_should_be_on_the_company_login_page method completed
+27-07-2018 11:09:31 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 11:16:18 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 11:16:18 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 11:16:18 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 11:16:18 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 11:16:18 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 11:16:25 INFO  TestBase:363 -  Navigated to https://www.freecrm.com
+27-07-2018 11:16:25 INFO  TestBase:170 - Browser Initialization finished with urlhttps://www.freecrm.com
+27-07-2018 11:16:25 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+27-07-2018 11:16:25 INFO  ContactsWorkflow:32 - I_am_on_the_company_login_page method started
+27-07-2018 11:16:25 INFO  ContactsWorkflow:37 - I_am_on_the_company_login_page method completed
+27-07-2018 11:16:25 INFO  ContactsWorkflow:42 - I_login_with_Valid_credentials Started
+27-07-2018 11:16:25 INFO  TestBase:363 - loginToApplication method Started
+27-07-2018 11:16:25 INFO  TestBase:1072 - Pass:Data is written in the text boxsanjeev101
+27-07-2018 11:16:26 INFO  TestBase:1072 - Pass:Data is written in the text boxtest@123
+27-07-2018 11:16:33 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:16:33 INFO  TestBase:363 - loginToApplication method Completed
+27-07-2018 11:16:33 INFO  ContactsWorkflow:52 - I_login_with_Valid_credentials Ended
+27-07-2018 11:16:33 INFO  TestBase:578 - Pass Hovered mouse over element 
+27-07-2018 11:16:33 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:16:33 INFO  TestBase:363 - createNewContact Started
+27-07-2018 11:16:34 INFO  TestBase:363 - Clicked On: [[[[ChromeDriver: chrome on XP (b92c55eee8d2587fb257810a7f3965af)] -> name: title]] -> xpath: .//option[@value = "Mr."]]
+27-07-2018 11:16:34 INFO  TestBase:1334 - Pass Dropdown value selected
+27-07-2018 11:16:34 INFO  TestBase:1072 - Pass:Data is written in the text boxSachin
+27-07-2018 11:16:35 INFO  TestBase:1072 - Pass:Data is written in the text boxPatidar
+27-07-2018 11:16:35 INFO  TestBase:1072 - Pass:Data is written in the text boxDuetch Bank
+27-07-2018 11:16:35 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:16:35 INFO  TestBase:363 - createNewContact Ended
+27-07-2018 11:16:35 INFO  TestBase:363 - loginPageTitle method Started
+27-07-2018 11:16:35 INFO  TestBase:363 - loginPageTitle method Completed
+27-07-2018 11:16:35 INFO  TestBase:363 - logoutApp method Started
+27-07-2018 11:16:35 INFO  TestBase:363 - clickLinkByHref method Started
+27-07-2018 11:16:35 INFO  TestBase:79 - Href link exist 
+27-07-2018 11:16:35 INFO  TestBase:363 - Clicked On: [[ChromeDriver: chrome on XP (b92c55eee8d2587fb257810a7f3965af)] -> tag name: a]
+27-07-2018 11:16:35 INFO  TestBase:363 - clickLinkByHref method ended
+27-07-2018 11:16:35 INFO  TestBase:363 - logoutApp method Completed
+27-07-2018 11:16:35 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 11:16:36 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 11:16:36 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 11:16:36 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 11:16:36 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 11:16:36 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 11:16:43 INFO  TestBase:363 -  Navigated to https://www.freecrm.com
+27-07-2018 11:16:43 INFO  TestBase:170 - Browser Initialization finished with urlhttps://www.freecrm.com
+27-07-2018 11:16:43 INFO  TestBase:20 - I_am_on_the_company_login_page method started
+27-07-2018 11:16:43 INFO  TestBase:363 - homePageTitle method Started
+27-07-2018 11:16:43 INFO  TestBase:363 - homePageTitle method Completed
+27-07-2018 11:16:43 INFO  TestBase:29 - I_am_on_the_company_login_page method completed
+27-07-2018 11:16:43 INFO  TestBase:35 - I_login_with_Valid_credentials Started
+27-07-2018 11:16:43 INFO  TestBase:363 - loginToApplication method Started
+27-07-2018 11:16:43 INFO  TestBase:1072 - Pass:Data is written in the text boxsanjeev101
+27-07-2018 11:16:43 INFO  TestBase:1072 - Pass:Data is written in the text boxtest@123
+27-07-2018 11:16:49 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:16:49 INFO  TestBase:363 - loginToApplication method Completed
+27-07-2018 11:16:49 INFO  TestBase:363 - loginPageTitle method Started
+27-07-2018 11:16:49 INFO  TestBase:363 - loginPageTitle method Completed
+27-07-2018 11:16:49 INFO  TestBase:44 - I_login_with_Valid_credentials completed
+27-07-2018 11:16:49 INFO  TestBase:50 - I_should_be_logged_in method started
+27-07-2018 11:16:49 INFO  TestBase:363 - loginPageTitle method Started
+27-07-2018 11:16:49 INFO  TestBase:363 - loginPageTitle method Completed
+27-07-2018 11:16:49 INFO  TestBase:55 - I_should_be_logged_in method completed
+27-07-2018 11:16:49 INFO  TestBase:363 - logoutApp method Started
+27-07-2018 11:16:49 INFO  TestBase:363 - clickLinkByHref method Started
+27-07-2018 11:16:59 INFO  TestBase:363 - clickLinkByHref method ended
+27-07-2018 11:16:59 INFO  TestBase:363 - logoutApp method Completed
+27-07-2018 11:17:00 INFO  TestBase:1549 - Test Pass and captured success screenshot
+27-07-2018 11:17:01 INFO  TestBase:363 - Environment data configuration settings loaded successfully
+27-07-2018 11:17:01 INFO  TestBase:363 - Test Data configuration settings loaded successfully
+27-07-2018 11:17:01 INFO  TestBase:363 - Message property configuration settings loaded successfully
+27-07-2018 11:17:01 INFO  TestBase:363 - Object property configuration settings loaded successfully
+27-07-2018 11:17:01 INFO  TestBase:363 - Creating the object of chrome
+27-07-2018 11:17:07 INFO  TestBase:363 -  Navigated to https://www.freecrm.com
+27-07-2018 11:17:07 INFO  TestBase:170 - Browser Initialization finished with urlhttps://www.freecrm.com
+27-07-2018 11:17:07 INFO  TestBase:363 -  Navigated to http://www.freecrm.com/
+27-07-2018 11:17:07 INFO  ContactsWorkflow:32 - I_am_on_the_company_login_page method started
+27-07-2018 11:17:07 INFO  ContactsWorkflow:37 - I_am_on_the_company_login_page method completed
+27-07-2018 11:17:07 INFO  TestBase:84 - I_login_with_invalid_credentials method Started
+27-07-2018 11:17:07 INFO  TestBase:363 - loginToApplication method Started
+27-07-2018 11:17:07 INFO  TestBase:1072 - Pass:Data is written in the text boxtest
+27-07-2018 11:17:08 INFO  TestBase:1072 - Pass:Data is written in the text boxtest
+27-07-2018 11:17:08 INFO  TestBase:886 - Pass clicked on the button
+27-07-2018 11:17:08 INFO  TestBase:363 - loginToApplication method Completed
+27-07-2018 11:17:08 INFO  TestBase:90 - I_login_with_invalid_credentials method completed
+27-07-2018 11:17:08 INFO  TestBase:96 - I_should_be_on_the_company_login_page method started
+27-07-2018 11:17:08 INFO  TestBase:363 - homePageTitle method Started
+27-07-2018 11:17:08 INFO  TestBase:363 - homePageTitle method Completed
+27-07-2018 11:17:08 INFO  TestBase:101 - I_should_be_on_the_company_login_page method completed
+27-07-2018 11:17:09 INFO  TestBase:1549 - Test Pass and captured success screenshot

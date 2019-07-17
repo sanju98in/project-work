@@ -1,0 +1,328 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6547878537,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.launchApplication()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "login with valid credentials then go to contacts and create new contacts",
+        "description": "",
+        "id": "create-new-contacts;login-with-valid-credentials-then-go-to-contacts-and-create-new-contacts;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1410099704,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.TakeScreenshotandTearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 466178287,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on login page",
+            "match": {
+              "location": "ContactsPageTest.I_am_on_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7708099439,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "logon with valid credentials",
+            "match": {
+              "location": "ContactsPageTest.logon_with_valid_credentials()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 120836132,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I mouse hover contacts menu",
+            "match": {
+              "location": "ContactsPageTest.I_mouse_hover_contacts_menu()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 44398418,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click create new contacts menu option",
+            "match": {
+              "location": "ContactsPageTest.I_click_create_new_contacts_menu_option()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1517683804,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I enter new contact details \"Mr.\" , \"Sachin\" , \"Patidar\" and \"Duetch Bank\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Mr.",
+                  "offset": 29
+                },
+                {
+                  "val": "Sachin",
+                  "offset": 37
+                },
+                {
+                  "val": "Patidar",
+                  "offset": 48
+                },
+                {
+                  "val": "Duetch Bank",
+                  "offset": 62
+                }
+              ],
+              "location": "ContactsPageTest.I_enter_new_contact_details(String,String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 10618136,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I verify page title",
+            "match": {
+              "location": "ContactsPageTest.I_verify_page_title()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 143166278,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I logOff and quit the application",
+            "match": {
+              "location": "ContactsPageTest.I_logOff_and_quit_the_application()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 6,
+            "name": "@create_newContacts"
+          }
+        ]
+      }
+    ],
+    "name": "create new contacts",
+    "description": "In order to create a new contact\r\n\tAs a normal user\r\n\tI want to be login to Free CRM application",
+    "id": "create-new-contacts",
+    "keyword": "Feature",
+    "uri": "contacts.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6441568255,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.launchApplication()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "login with valid credentials",
+        "description": "",
+        "id": "validate-login;login-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 1464424314,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.TakeScreenshotandTearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12578022,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I am on the company login page",
+            "match": {
+              "location": "loginTest.I_am_on_the_company_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6403977650,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I login with valid credentials",
+            "match": {
+              "location": "loginTest.I_login_with_Valid_credentials()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9846734,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I should be logged in",
+            "match": {
+              "location": "loginTest.I_should_be_logged_in()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 10026059773,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I must see the logout option",
+            "match": {
+              "location": "loginTest.I_must_see_the_logout_option()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 7,
+            "name": "@login_positive"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6310024017,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.launchApplication()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "invalid credentails",
+        "description": "",
+        "id": "validate-login;invalid-credentails",
+        "after": [
+          {
+            "result": {
+              "duration": 1459443750,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.TakeScreenshotandTearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 393046007,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I am on login page",
+            "match": {
+              "location": "ContactsPageTest.I_am_on_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1017218489,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I login with invalid credentials",
+            "match": {
+              "location": "loginTest.I_login_with_invalid_credentials()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 14279743,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I should be on the company login page",
+            "match": {
+              "location": "loginTest.I_should_be_on_the_company_login_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 14,
+            "name": "@login_negative"
+          }
+        ]
+      }
+    ],
+    "name": "Validate login",
+    "description": "\r\nIn order to create a new contact\r\n\tAs a normal user\r\n\tI want to be able to perform login to Free CRM",
+    "id": "validate-login",
+    "keyword": "Feature",
+    "uri": "login.feature"
+  }
+]
