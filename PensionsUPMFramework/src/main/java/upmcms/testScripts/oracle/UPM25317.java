@@ -2,6 +2,9 @@ package upmcms.testScripts.oracle;
 import org.testng.annotations.Test;
 import upmcms.workflow.MyPersonalDetailsWorkflow;
 
+/*
+ * @author: Sanjeev Kumar Sinha
+ */
 public class UPM25317 extends MyPersonalDetailsWorkflow{
   
   @Test(groups = {"oracle1"})
