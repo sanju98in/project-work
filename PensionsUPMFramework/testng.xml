@@ -1,0 +1,25 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+ <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="CIVICA TEST SUITE" parallel="tests" thread-count="1">
+	<listeners>
+		<listener class-name="util.Listener"/>
+		 <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      	<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+      <!--listener class-name="util.ScreenshotUtility"/-->
+	</listeners>
+	
+   	 	<test name="Smoke Test">
+	  	<groups>		
+   			<run>		
+    			<include name="oracle1" />
+    			<include name="sqlServer1" />    					
+   			</run>
+   		</groups>
+   		 <packages>
+        <package name="upmcms.testScripts.oracle.*" />
+        <package name="upmcms.testScripts.sql.*" />
+     </packages>
+   	 </test>
+  
+</suite>
